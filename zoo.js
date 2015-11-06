@@ -1,3 +1,3 @@
 
-console.log('hello zoo');
+console.log('hello');
 
